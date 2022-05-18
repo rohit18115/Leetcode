@@ -7,4 +7,6 @@ The solution for each question covers the following things:
 - Optimized solution that i came up with.
 - Best solution on leetcode.
 
+The link for the [array lessons](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/)
+
 Hope this repository helps you!
